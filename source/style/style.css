@@ -87,3 +87,8 @@ body {
     padding: 5rem 0;
   }
 }
+@media (max-width: 576px){
+  .hidden {
+    display: none;
+  }
+}
